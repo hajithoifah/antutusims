@@ -1,9 +1,9 @@
 {
-  "ad_app_id": "ca-app-pub-4754459062262858~9872040642",
-  "appOpenAdUnitId": "ca-app-pub-3940256099942544/9257395921",
-  "bannerAdUnitId": "ca-app-pub-3940256099942544/6300978111",
-  "interstitialAdUnitId": "ca-app-pub-3940256099942544/1033173712",
-  "rewardedAdUnitId": "ca-app-pub-3940256099942544/5224354917",
-  "nativeAdUnitId": "ca-app-pub-3940256099942544/2247696110",
-  "isAdsEnabled": true
+  "ad_app_id": "ca-app-pub-6335103216414556~5537983580",
+  "appOpenAdUnitId": "ca-app-pub-6335103216414556/7408355334",
+  "bannerAdUnitId": "ca-app-pub-6335103216414556/1532222445",
+  "interstitialAdUnitId": "ca-app-pub-6335103216414556/9219140771",
+  "rewardedAdUnitId": "ca-app-pub-6335103216414556/2347600343",
+  "nativeAdUnitId": "ca-app-pub-6335103216414556/8721437005",
+  "isAdsEnabled": false
 }
